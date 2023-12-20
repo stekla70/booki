@@ -1,1 +1,1 @@
-# booki-starter-pack
+for desktop, tablet & mobile
